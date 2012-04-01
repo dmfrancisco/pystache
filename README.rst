@@ -25,10 +25,7 @@ Install It
 
 ::
 
-    git clone http://github.com/dmfrancisco/pystache
-    cd pystache
-    python setup.py build
-    python setup.py install
+    pip install pystache
 
 
 Use It
